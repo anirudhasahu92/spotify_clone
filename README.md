@@ -62,12 +62,16 @@ spotify_clone/
 ## How to Run Locally
 
 1. Clone the repository:
-   git clone https://github.com/anirudhasahu92/spotify-clone.git  
+   ```bash
+   git clone https://github.com/anirudhasahu92/spotify_clone.git
+   ``` 
 
-2. Open the project folder:
-   cd spotify-clone  
+3. Open the project folder:
+   ```bash
+   cd spotify_clone
+   ```
 
-3. Open index.html in your browser:
+5. Open index.html in your browser:
    - Double click the file  
    - Or use VS Code Live Server  
 
