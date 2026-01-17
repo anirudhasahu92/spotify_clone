@@ -8,7 +8,7 @@ This project demonstrates a simple music player interface with a playlist, play/
 
 ## Screenshots
 
-Add screenshots in your repo and reference them like:
+The project UI:
 
 ![UI Preview](Screenshot.jpg)
 
