@@ -6,6 +6,14 @@ This project demonstrates a simple music player interface with a playlist, play/
 
 ---
 
+## Screenshots
+
+Add screenshots in your repo and reference them like:
+
+![UI Preview](Screenshot.jpg)
+
+---
+
 ## Preview
 
 The project includes:
@@ -63,15 +71,7 @@ spotify_clone/
    - Double click the file  
    - Or use VS Code Live Server  
 
----
 
-## Screenshots
-
-Add screenshots in your repo and reference them like:
-
-![UI Preview](Screenshot.jpg)
-
----
 
 ## Learning Outcomes
 
